@@ -1,4 +1,4 @@
-# Rayban x Meta Glasses
+# Rayban x Meta Wayfarer
 
 ![alt text](image.png)
 
