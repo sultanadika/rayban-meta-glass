@@ -119,7 +119,7 @@ You can control the glasses using the touchpad on the right arm.
 
 ## Hardware Features and Specifications
 
-The Meta Ray-Ban Display features a monocular display with 600×600 pixel resolution integrated into the right lens, offering a 20-degree field of view with 42 pixels per degree. The display brightness ranges from 30 to 5,000 nits and operates at up to 90 Hz refresh rate. The glasses weigh 69 grams (standard size) or 70 grams (large size) and include Transitions lenses as standard.[25][26]
+The Meta Ray-Ban Display features a monocular display with 600×600 pixel resolution integrated into the right lens, offering a 20-degree field of view with 42 pixels per degree. The display brightness ranges from 30 to 5,000 nits and operates at up to 90 Hz refresh rate. The glasses weigh 69 grams (standard size) or 70 grams (large size) and include Transitions lenses as standard.
 
 Technical specifications include:
 
